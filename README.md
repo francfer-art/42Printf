@@ -15,6 +15,7 @@ Welcome to ft_printf! This project aims to provide a custom implementation of th
 ## Overview
 ft_printf is designed to handle the following conversion specifiers:
 
+```
 %c: Prints a single character.
 %s: Prints a string (as defined by the common C convention).
 %p: Prints a pointer address in hexadecimal format.
@@ -24,6 +25,7 @@ ft_printf is designed to handle the following conversion specifiers:
 %x: Prints a number in hexadecimal (base 16) lowercase format.
 %X: Prints a number in hexadecimal (base 16) uppercase format.
 %%: Prints a percent sign.
+```
 
 ## Requirements
 Here are some key requirements for ft_printf:

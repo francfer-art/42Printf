@@ -1,11 +1,11 @@
-![Banner](https://raw.githubusercontent.com/francfer-art/Badges/main/covers/cover-ft_printf.png?token=GHSAT0AAAAAACI7BVOLIZV6FD4DJI326UIGZOIZYIQ)
+![Banner](https://raw.githubusercontent.com/francfer-art/Badges/main/covers/cover-ft_printf.png?token=GHSAT0AAAAAACI7BVOLPIXNQWFSPIV5ELZSZOI5MKQ)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOK54CECJBVIAYQRFY4ZOIZWGQ" alt="Libft Logo">
+  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOK54CECJBVIAYQRFY4ZOIZWGQ" alt="Printf Logo">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Libft Score">
+  <img src="https://img.shields.io/badge/Score-100%2F100-brightgreen" alt="Printf Score">
 </p>
 
 ## Table of Contents

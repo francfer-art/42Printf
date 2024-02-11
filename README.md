@@ -52,7 +52,7 @@ To use Libft in your project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/libft.git
+https://github.com/francfer-art/42Printf.git
 ```
 
 3. Include the library in your project:
@@ -85,7 +85,7 @@ int main()
     int num;
     num = 7;
 
-    ft_printf("Hello, %s!\n", "world");
+    ft_printf("Hello, %s\n", "world!");
     ft_printf("The value of the number is: %d\n", num);
     return 0;
 }

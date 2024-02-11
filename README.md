@@ -78,12 +78,18 @@ git clone https://github.com/your-username/libft.git
 Once the library is successfully integrated into your project, you can start using the functions in your code. Refer to the Libft Wiki for detailed documentation on each function.
 
 ```c
-#include "libft.h"
+#include "ft_printf.h"
 
-int main() {
-    ft_putstr("Hello, Libft!\n");
+int main()
+{
+    int num;
+    num = 7;
+
+    ft_printf("Hello, %s!\n", "world");
+    ft_printf("The value of the number is: %d\n", num);
     return 0;
 }
+
 ```
 
 ## Contributing

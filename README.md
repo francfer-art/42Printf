@@ -72,3 +72,24 @@ git clone https://github.com/your-username/libft.git
 ```bash
     gcc -o your_project your_project.c -L. -lft
 ```
+
+## Usage
+
+Once the library is successfully integrated into your project, you can start using the functions in your code. Refer to the Libft Wiki for detailed documentation on each function.
+
+```c
+#include "libft.h"
+
+int main() {
+    ft_putstr("Hello, Libft!\n");
+    return 0;
+}
+```
+
+## Contributing
+
+Contributions are welcome! If you have improvements or additional features to suggest, please open an issue or submit a pull request. Follow the Contribution Guidelines for more details.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+

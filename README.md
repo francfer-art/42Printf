@@ -58,7 +58,7 @@ https://github.com/francfer-art/42Printf.git
 3. Include the library in your project:
 
 ```c
-    #include "libft.h"
+    #include "ft_printf.h"
 ```
 
 4. Compile the library:
@@ -70,7 +70,7 @@ https://github.com/francfer-art/42Printf.git
 5. Link the library during compilation of your project:
 
 ```bash
-    gcc -o your_project your_project.c -L. -lft
+    gcc main.c -L. -lftprintf -o my_program
 ```
 
 ## Usage

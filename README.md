@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/francfer-art/Badges/main/covers/cover-ft_printf.png?token=GHSAT0AAAAAACI7BVOLPIXNQWFSPIV5ELZSZOI5MKQ)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOK54CECJBVIAYQRFY4ZOIZWGQ" alt="Printf Logo">
+  <img src="https://raw.githubusercontent.com/francfer-art/Badges/main/badges/ft_printfe.png?token=GHSAT0AAAAAACI7BVOKTSMRX3JJCLO5OHVAZOI5NSQ">
 </p>
 
 <p align="center">

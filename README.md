@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/ft_printf-dark.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/ft_printf-dark.png">
+</p>
 
 <p align="center">
   <a href="https://github.com/francfer-art/42Printf">

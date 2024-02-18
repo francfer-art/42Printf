@@ -102,11 +102,3 @@ Contributions are welcome! If you have improvements or additional features to su
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-<div style="background-image: url('https://cdn.intra.42.fr/coalition/cover/275/Banners_4500x400-V2_Banner_Void__3_.png'); background-size: cover; background-position: center; width: 300px; height: 200px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); padding: 20px; color: white; font-family: Arial, sans-serif; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <img src="https://cdn.intra.42.fr/users/fe45afe8506f26e1d20c74c6443f9386/francfer.jpg" alt="Profile Picture" style="width: 80px; height: 80px; border-radius: 50%; margin-bottom: 10px;">
-    <h1>francfer</h1>
-    <p>Visual Designer</p>
-</div>
-
-
